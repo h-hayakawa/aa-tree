@@ -1,6 +1,6 @@
 #include<stdint.h>
 
-/* int意外を使いたかったらここから改造 */
+/* int以外を使いたかったらここから改造 */
 typedef int aatree_val;
 
 typedef struct __aatree_node__{
